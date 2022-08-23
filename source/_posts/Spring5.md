@@ -6,9 +6,11 @@ tags: spring #文章标签
 categories: [spring] #文章分类
 keywords: #关键字
 top_img: false #文章顶部图片
-cover: /img/1.jpg #文章缩略图(如果没有设置top_img,文章页顶部将显示缩略图，可设为false/图片地址/留空)
+cover: https://webplus-cn-shenzhen-s-61b0219cf968dd14ce7355c5.oss-cn-shenzhen.aliyuncs.com/1.jpg #文章缩略图(如果没有设置top_img,文章页顶部将显示缩略图，可设为false/图片地址/留空)
 comments: true #显示文章评论模块(默认 true)
 footer_bg: true
+sticky: 1 #文章置顶
+swiper_index: 1 #置顶轮播图顺序，非负整数，数字越大越靠前
 #background: /img/1.jpg
 ---
 
