@@ -57,7 +57,7 @@ jobs:
       - name: 部署到Github
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: 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
+          token: ${{ secrets.GITHUBTOKEN }}
           repository-name: ggjcbgg/ggjcbgg.github.io
           branch: master
           folder: public
