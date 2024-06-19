@@ -19,7 +19,7 @@
     "hexo-abbrlink": "^2.2.1",
     "hexo-asset-image": "github:CodeFalling/hexo-asset-image",
     "hexo-bilibili-bangumi": "^1.8.2",
-    "hexo-butterfly-charts": "^1.1.3",
+    "hexo-butterfly-charts": "^1.1.6",
     "hexo-butterfly-clock-anzhiyu": "^1.0.5",
     "hexo-butterfly-envelope": "^1.0.15",
     "hexo-butterfly-swiper": "^1.0.12",
